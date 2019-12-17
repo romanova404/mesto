@@ -1,0 +1,19 @@
+.user-info__button_edit {
+  width: 40px;
+  height: 20px;
+  font-size: 11px;
+  display: inline;
+  
+}
+
+.user-info__button_edit:hover {
+  color: black;
+  background-color: white;
+}
+
+.user-info__button_edit:active {
+  color: black;
+  background-color: #1E90FF;
+  outline: none;
+  border: none;
+}
