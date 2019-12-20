@@ -2,7 +2,6 @@ import "./style.css";
 
 import {PopupProfile} from './modules/popup/__profile/popup-profile.js';
 import {PopupCard} from './modules/popup/__card/popup-card.js';
-import {ImagePopup} from './modules/popup/__image/image-popup.js';
 import {Api} from './modules/api/api.js';
 import {CardList} from './modules/cardlist/card-list.js';
 
