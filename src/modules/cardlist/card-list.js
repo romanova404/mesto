@@ -1,4 +1,3 @@
-import {Card} from '../popup/__card/__newcard/card.js'
 export class CardList {
     constructor(container) {
       this.container = container;
